@@ -1,0 +1,4 @@
+AuthName "Need authorization"
+AuthType Basic
+AuthUserFile /home/users/r/rbru-dns/domains/jtest20.rbru-test.ru/.htpasswd
+require valid-user
